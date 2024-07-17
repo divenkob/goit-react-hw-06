@@ -1,0 +1,16 @@
+.contacts {
+display: flex;
+flex-direction: column;
+gap: 3px;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+  }
+  
+.button {
+    max-height: 30px;
+    max-width: 80px;
+  }
